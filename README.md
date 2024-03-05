@@ -1,6 +1,6 @@
 ![LOGO](https://github.com/DeepWave-KAUST/diffefwi/blob/main/asset/diffefwi.png)
 
-Reproducible material for  **DW0028 - Mohammad H. Taufik, Fu Wang, Tariq Alkhalifah.**
+Reproducible material for  **Learned regularizations for elastic full waveform inversion using diffusion models - Mohammad H. Taufik, Fu Wang, Tariq Alkhalifah.**
 
 # Project structure
 This repository is organized as follows:
