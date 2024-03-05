@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Learned regularizations for multi-parameter elastic full
+  waveform inversion using diffusion models
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mohammad Hasyim
+    family-names: Taufik
+    email: mohammad.taufik@kaust.edu.sa
+    name-particle: Mohammad
+    affiliation: KAUST
+  - given-names: Fu
+    family-names: Wang
+    email: fu.wang@kaust.edu.sa
+    affiliation: KAUST
+  - given-names: Tariq
+    family-names: Alkhalifah
+    email: tariq.alkhalifah@kaust.edu.sa
+    affiliation: KAUST
+repository-code: 'https://github.com/DeepWave-KAUST/diffefwi'
