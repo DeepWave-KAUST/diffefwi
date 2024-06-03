@@ -16,6 +16,7 @@ This repository is organized as follows:
 The following notebooks are provided:
 
 - :orange_book: ``Example-2-efwi.ipynb``: notebook reproducing the results of the near-surface synthetic test in the paper.
+- :orange_book: ``colab.ipynb``: notebook to run the experiments from Google Colab.
 
 ## Scripts
 The following scripts are provided:
