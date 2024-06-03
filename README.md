@@ -42,6 +42,9 @@ conda activate diffefwi
 **Disclaimer:** All experiments have been carried on a Intel(R) Xeon(R) Silver 4316 CPU @ 2.30GHz equipped with a single NVIDIA A100 GPU. Different environment 
 configurations may be required for different combinations of workstation and GPU.
 
+## Running from virtual machines
+
+Our ``diffefwi`` source codes can be installed as a standalone python package. It can directly be installed and utilized on existing open-source GPU providers, like Google Colab. Please refer to our ``colab.ipynb`` notebook for the details.
 
 ## Cite us 
 ```bibtex
